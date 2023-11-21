@@ -1,0 +1,17 @@
+nav {
+    font-family: "Nunito", sans-serif;
+}
+
+.custom-light-purple-bg {
+    background-color: #D1C4E9;
+    /* Light Purple */
+}
+.custom-lessthan-light-purple-bg {
+    background-color: #b192e9;
+    /* Light Purple */
+}
+
+.text-bg-dark {
+    color: #333;
+    /* Dark Grey Text */
+}
